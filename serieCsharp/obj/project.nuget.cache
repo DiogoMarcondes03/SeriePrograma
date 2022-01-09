@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXnp52h5ANAAmJLeeymTCnBnyulS2URAMyFdMniho57SYvvfFQjOFPSu45vXrviahfgQ1pgyv74kwBP6qUCFjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thais\\Documents\\Estudos\\serieCsharp\\serieCsharp\\serieCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thais\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
